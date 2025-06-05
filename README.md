@@ -1,24 +1,26 @@
-# 💫 A Chef Who Loves to Cook Visually Appealing Web Applications
+# 💫 A Chef Who Cooks Visually Appealing Web Applications
 
-Hello! I'm **Anisul**, a 24-year-old self-taught **Front-end Focused Full-Stack Web Developer** from **Chattogram**.  
-I'm passionate about **TypeScript**, **Next.js**, and building modern, scalable, and beautiful web applications.  
-With **2 years of professional experience**, I love turning ideas into reality using code.
+Hello! I'm **Anisul**, a 24-year-old self-taught **Full-Stack Web Developer** from **Chattogram**, with a strong focus on the **Front-end**.  
+I’m passionate about **TypeScript**, **Next.js**, and creating sleek, scalable, and performance-driven web applications.
 
-🚀 Wanna collaborate? Let's build something amazing together! 🖤
+With **2 years of professional experience**, I thrive on transforming ideas into intuitive digital experiences.
 
----
-
-### 💬 About Me
-
-- 💡 Loves to talk about Technology, Software, Coding, and Big Ideas.
-- 🤝 Open to collaborating on innovative projects.
-- 🌱 Currently exploring Backend architecture, Databases, and Linux.
+> 🚀 Let's collaborate and build something amazing together!
 
 ---
 
-### 🔥 Tech I'm Passionate About
+## 💬 About Me
 
-<p>
+- 💡 Enthusiastic about technology, software development, and big ideas.
+- 🤝 Open to freelance and collaborative projects.
+- 🌱 Currently exploring Backend Architecture, Databases, and Linux systems.
+- 🎯 Always striving to grow as a developer and creator.
+
+---
+
+## 🔥 Tech I’m Passionate About
+
+<p align="left">
   <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -31,24 +33,42 @@ With **2 years of professional experience**, I love turning ideas into reality u
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Nest.js, Golang (Gin)  
-- **Database:** MongoDB, PostgreSQL  
-- **Others:** Git, Docker, REST APIs, JWT, Redux, Prisma
+**Frontend**  
+`React.js` • `Next.js` • `HTML` • `CSS` • `Tailwind CSS`
+
+**Backend**  
+`Node.js` • `Express.js` • `NestJS` • `Golang (Gin)`
+
+**Database**  
+`PostgreSQL` • `MongoDB`
+
+**Dev Tools & Others**  
+`Docker` • `Git` • `REST APIs` • `JWT` • `Redux` • `Prisma`
 
 ---
 
-### 📬 Contact Me
+## 📬 Let’s Connect
 
-<p>
-  <a href="mailto:anisulhoque587@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anisul-hoque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/anis.ahad.58/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/anisulhoque587/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<p align="left">
+  <a href="mailto:anisulhoque587@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anisul-hoque/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/anis.ahad.58/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anisulhoque587/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-Thanks for stopping by! ⭐️
+### 🖤 Thanks for stopping by!
+
+> *"Code is the closest thing we have to magic."*
+
