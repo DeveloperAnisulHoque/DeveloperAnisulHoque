@@ -1,5 +1,7 @@
 <img align="center" width="1050" style="border: 30px solid red;" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
+
 # 👨‍🍳 Anisul Hoque 
+
 ### **Frontend Alchemist | Full-Stack Developer**  
 *Crafting delicious digital experiences with TypeScript and React*
 
